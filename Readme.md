@@ -1,3 +1,3 @@
-# Thesis supplementary files
+# Thesis and Supplementary files
 
-Supplementary files of the PhD thesis titled "Bacterial protein sorting: experimental and computational approaches" by Stefano Grasso.
+PhD thesis titled "Bacterial protein sorting: experimental and computational approaches" by Stefano Grasso, with respective Supplementary files.
